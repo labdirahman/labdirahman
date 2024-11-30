@@ -1,8 +1,8 @@
 <h1>Hi, I'm Lina! <br/><a href="https://github.com/labdirahman">Programmer</a> & <a href="https://www.linkedin.com/in/lina-abdirahman-26048733a">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
-  - [Active Delivery Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Portfolio](https://github.com/labdirahman/GoogleCybersecurityPortfolio)
 
     <h2> Certifications:</h2>
   - [Google Cybersecurity Certification](https://drive.google.com/file/d/11yjxqrzyL8c6RB6ErY5G678QvfjBBNZn/view?usp=sharing)
